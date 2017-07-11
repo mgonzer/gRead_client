@@ -1,0 +1,11 @@
+header{
+  padding-top: 1em;
+}
+
+#logo-image {
+  height: 4em;
+  width: 4em;
+  float:left;
+  margin-left: 2em;
+  margin-right: 2em;
+}
