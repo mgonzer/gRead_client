@@ -1,5 +1,8 @@
 header{
   padding-top: 1em;
+  padding-bottom: 1em;
+  background-color: #CDCBCB;
+
 }
 
 #logo-image {
@@ -8,4 +11,64 @@ header{
   float:left;
   margin-left: 2em;
   margin-right: 2em;
+}
+
+.books-authors {
+  padding-top: 3em;
+}
+
+#books {
+  padding-top: 2em;
+}
+
+#book-image {
+  height: 10em;
+  width: 8em;
+}
+
+#icon {
+    height: 2em;
+    width: 2em;
+
+}
+
+.card {
+  margin-left: 1em;
+}
+
+.link {
+  margin-top: 1em;
+}
+
+.btn-info {
+  float: right;
+  margin: 1em;
+}
+
+#add-button {
+  height: 4em;
+  margin-top: 1.5em;
+  margin-left: 20em;
+}
+
+form {
+  padding-top: 2em;
+  width: 50%;
+}
+
+#author-list {
+  list-style: none;
+  height: 7em;
+  border-style: solid;
+  border-radius: 0.2rem;
+  border-color: #d9d9d9;
+  border-width: .01em;
+}
+
+#add-author{
+  margin-left: 1em;
+}
+
+#author-name{
+  margin-left: 1em;
 }
